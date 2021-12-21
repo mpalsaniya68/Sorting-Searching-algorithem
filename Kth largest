@@ -1,0 +1,10 @@
+# we are going to start an algorithem which find kth largest or lowest element in a given big list 
+# This is known as Kth largest element in a list algorithm
+
+'''first of all we are createing an fuction to define kth largest element in algorithem'''
+
+def kth_largest(k,L):
+     if len(L)==1:
+         return L
+         
+
